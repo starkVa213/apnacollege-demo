@@ -3,4 +3,4 @@
 
 my 1st git repo
 <br>
-Author: Varun
+Author: Varun (teja)
